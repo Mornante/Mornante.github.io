@@ -1,17 +1,17 @@
 {
-  "docs/getting-started.html": {
-    "href": "docs/getting-started.html",
+  "index.html": {
+    "href": "index.html",
+    "title": "Welcome to My Portfolio! | Mornante Basson",
+    "keywords": "Welcome to My Portfolio! Hi, I'm Mornante Basson, an Intermediate Software Developer with a passion for crafting .NET-based solutions. I specialize in building tools that not only make my life easier but also challenge me to continuously learn and improve my skills. With a strong foundation in software development, I am currently aspiring to become a Solutions Architect. My journey has led me to work with a variety of technologies, but my true focus lies in cloud-native applications and the vast capabilities of Azure. What I Do I thrive on the challenges of designing scalable systems and architecting efficient, cloud-based solutions. My experience includes: Architecting SaaS solutions for clients, helping them solve complex business problems. Integrating Azure services and other Microsoft technologies to build robust, high-performance systems. Leveraging the latest innovations in cloud computing to deliver secure and scalable solutions. My dedication to staying at the forefront of Azure technologies has driven me to consistently expand my knowledge, ensuring I deliver state-of-the-art solutions that align with business needs. Focus Areas Azure Cloud Services: Building and optimizing cloud-native applications on Microsoft Azure. SaaS Solutions: Architecting flexible, scalable systems that deliver real business value. AI Integration: Exploring the potential of Large Language Models (LLMs) to enhance web applications and improve user experiences. Passion for Continuous Learning I'm constantly seeking new opportunities to expand my skill set. Whether it's learning advanced .NET features, exploring new cloud technologies, or diving into the future of AI and Machine Learning, I am always looking to stay ahead of the curve. Let’s Connect! If you're interested in discussing the latest tech trends, exchanging insights, or exploring potential collaborations, I’d love to connect! I'm always open to networking and meaningful conversations with like-minded professionals."
+  },
+  "pages/getting-started.html": {
+    "href": "pages/getting-started.html",
     "title": "Getting Started | Mornante Basson",
     "keywords": "Getting Started"
   },
-  "docs/introduction.html": {
-    "href": "docs/introduction.html",
+  "pages/introduction.html": {
+    "href": "pages/introduction.html",
     "title": "Introduction | Mornante Basson",
     "keywords": "Introduction"
-  },
-  "index.html": {
-    "href": "index.html",
-    "title": "This is the HOMEPAGE. | Mornante Basson",
-    "keywords": "This is the HOMEPAGE. Refer to Markdown for how to write markdown files. Quick Start Notes: Add images to the images folder if the file is referencing an image."
   }
 }
